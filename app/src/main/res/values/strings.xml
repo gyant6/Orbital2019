@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Orbital2019</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_facil">Facilities</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_about">About Pet</string>
+
+    <string name="gender">Pet Gender</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
